@@ -68,4 +68,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Force application to use older version of Ruby.
-ruby '2.3.0'
+ruby '2.3.7'
